@@ -1,4 +1,5 @@
 CitizenMP.Server.exe
 CitizenMP.Server.exe.config
 NLog.config
+login.lua
 /cache/
