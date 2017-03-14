@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SpoonerPlacements xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ClearDatabase>false</ClearDatabase>
+  <ClearWorld>false</ClearWorld>
+  <ReferenceCoords>
+    <X>-1027.71838</X>
+    <Y>-2730.763</Y>
+    <Z>17.1735821</Z>
+  </ReferenceCoords>
+  <Placement>
+    <ModelHash>0xba3c2825</ModelHash>
+    <Type>3</Type>
+    <Dynamic>false</Dynamic>
+    <InitialHandle>0</InitialHandle>
+    <OpacityLevel>255</OpacityLevel>
+    <LodDistance>2900</LodDistance>
+    <IsVisible>true</IsVisible>
+    <Health>200</Health>
+    <IsOnFire>false</IsOnFire>
+    <IsInvincible>false</IsInvincible>
+    <IsBulletProof>false</IsBulletProof>
+    <IsCollisionProof>false</IsCollisionProof>
+    <IsExplosionProof>false</IsExplosionProof>
+    <IsFireProof>false</IsFireProof>
+    <IsMeleeProof>false</IsMeleeProof>
+    <IsOnlyDamagedByPlayer>false</IsOnlyDamagedByPlayer>
+    <PositionRotation>
+      <X>-1010.34241</X>
+      <Y>-2705.0957</Y>
+      <Z>12.7568979</Z>
+      <Pitch>0</Pitch>
+      <Roll>0</Roll>
+      <Yaw>0</Yaw>
+    </PositionRotation>
+  </Placement>
+</SpoonerPlacements>
