@@ -7,7 +7,7 @@ local permission = {
 require "resources/essentialmode/lib/MySQL"
 
 -- MySQL:open("IP", "databasname", "user", "password")
-MySQL:open("127.0.0.1", "gta5_gamemode_essential", "root", "1202")
+MySQL:open("192.168.0.13", "gta5_gamemode_essential", "root", "JFBS27NMGCXNVXLH")
 
 
 -- Default commands

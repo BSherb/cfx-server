@@ -3,3 +3,5 @@ CitizenMP.Server.exe.config
 NLog.config
 login.lua
 /cache/
+
+resources/sql\.sql
